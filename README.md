@@ -1,4 +1,4 @@
-# Actividad 7 · Detalle dinámico de películas
+# Actividad 7 - Detalle dinámico de películas
 
 Código base para practicar parámetros de URL, `URLSearchParams`, `find()` y modificación del DOM mediante una cartelera de cine.
 
@@ -17,6 +17,4 @@ Buscá los comentarios identificados con `TODO`. El archivo `js/peliculas.js` y 
 4. Probá las cuatro películas.
 5. Probá también un identificador inexistente, como `detalle.html?id=m99`.
 
-Podés abrir los archivos directamente o utilizar Live Server desde Visual Studio Code. Bootstrap y los afiches se cargan desde Internet.
-
-Los días y horarios de las funciones son simulados exclusivamente para la actividad educativa.
+Podés abrir los archivos directamente o utilizar Live Server desde Visual Studio Code.
